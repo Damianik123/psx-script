@@ -1,0 +1,2 @@
+# psx-script
+Script
