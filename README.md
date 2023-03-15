@@ -1,2 +1,1 @@
-# psx-script
-Script
+elo
